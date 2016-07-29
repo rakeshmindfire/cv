@@ -1,0 +1,48 @@
+body{
+
+}
+
+h3 {
+    background-color:palegreen;
+}
+
+#secondary-column {
+    border: cadetblue thin groove;
+
+}
+
+
+#name {
+    padding-top:2% ;
+}
+
+#contact {
+    font-size:1.15em;
+    margin-top:2%;
+}
+
+#isrow{
+    margin-left:0px;
+    margin-right:0px;
+}
+
+#phnum{
+   font-weight: lighter;
+}
+
+li > span {
+    display:block;
+    text-decoration: underline;
+}
+
+h1{
+    font-size:4vw;
+}
+
+#headrow{
+    margin-top:5vw;
+}
+
+#name, #contact {
+    margin-top:3vw;
+}
